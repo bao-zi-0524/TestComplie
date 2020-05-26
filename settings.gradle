@@ -1,0 +1,3 @@
+rootProject.name='TestComplie'
+include ':app'
+include ':testcomplie'
