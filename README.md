@@ -8,5 +8,5 @@
 	}
   
   	dependencies {
-	        implementation 'com.github.bao-zi-0524:TestComplie:Tag'
+	        implementation 'com.github.bao-zi-0524:TestComplie:0.1'
 	}
